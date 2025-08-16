@@ -34,4 +34,5 @@ Explanation and how to test for each script:
   Purpose: Goes through each subscriber using a cursor and prints their complete watch history, including those who haven’t watched anything.
   Execution: CALL PrintAllWatchHistories(); {No Arguments}
 
-**GitHub Repository Link:** 
+**GitHub Repository Link:** https://github.com/chakradhar-7/SSD_LAB2.git
+
